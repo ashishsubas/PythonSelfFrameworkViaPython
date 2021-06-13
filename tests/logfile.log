@@ -1,0 +1,148 @@
+2021-06-04 18:37:12,455 : INFO : test_formSubmission : The first name isAshish
+2021-06-04 18:37:12,904 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-04 18:37:14,732 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-04 18:37:15,404 : INFO : test_formSubmission : The first name isAshish
+2021-06-04 18:37:15,404 : INFO : test_formSubmission : The first name isAshish
+2021-06-04 18:37:15,757 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-04 18:37:15,757 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-04 18:37:17,291 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-04 18:37:17,291 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-04 18:37:27,251 : INFO : test_e2e : getting all the card titles
+2021-06-04 18:37:28,293 : INFO : test_e2e : Entering Country name as ind
+2021-06-04 18:37:34,482 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-04 18:40:43,665 : INFO : test_formSubmission : The first name isAshish
+2021-06-04 18:40:43,991 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-04 18:40:45,785 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-04 18:40:46,626 : INFO : test_formSubmission : The first name isAshish
+2021-06-04 18:40:46,626 : INFO : test_formSubmission : The first name isAshish
+2021-06-04 18:40:46,939 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-04 18:40:46,939 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-04 18:40:48,822 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-04 18:40:48,822 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-04 18:40:58,975 : INFO : test_e2e : getting all the card titles
+2021-06-04 18:41:00,156 : INFO : test_e2e : Entering Country name as ind
+2021-06-04 18:41:06,888 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-05 18:57:24,112 : INFO : test_formSubmission : The first name isAshish
+2021-06-05 18:57:24,185 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-05 18:57:24,609 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-05 18:57:24,779 : INFO : test_formSubmission : The first name isAshish
+2021-06-05 18:57:24,779 : INFO : test_formSubmission : The first name isAshish
+2021-06-05 18:57:24,842 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-05 18:57:24,842 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-05 18:57:25,211 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-05 18:57:25,211 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-05 18:57:30,521 : INFO : test_e2e : getting all the card titles
+2021-06-05 18:57:30,724 : INFO : test_e2e : Entering Country name as ind
+2021-06-05 18:57:36,048 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-05 22:58:08,289 : INFO : test_formSubmission : The first name isAshish
+2021-06-05 22:58:08,367 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-05 22:58:08,865 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-05 22:58:09,035 : INFO : test_formSubmission : The first name isAshish
+2021-06-05 22:58:09,035 : INFO : test_formSubmission : The first name isAshish
+2021-06-05 22:58:09,096 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-05 22:58:09,096 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-05 22:58:09,716 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-05 22:58:09,716 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-05 22:58:15,064 : INFO : test_e2e : getting all the card titles
+2021-06-05 22:58:15,273 : INFO : test_e2e : Entering Country name as ind
+2021-06-05 22:58:20,677 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-06 19:08:25,138 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 19:08:25,213 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 19:08:26,470 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 19:08:26,664 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 19:08:26,664 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 19:08:26,741 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 19:08:26,741 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 19:08:27,720 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 19:08:27,720 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 19:08:36,536 : INFO : test_e2e : getting all the card titles
+2021-06-06 19:08:36,801 : INFO : test_e2e : Entering Country name as ind
+2021-06-06 19:08:42,165 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-06 20:57:40,841 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 20:57:40,933 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 20:57:41,378 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 20:57:41,673 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 20:57:41,673 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 20:57:41,784 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 20:57:41,784 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 20:57:42,523 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 20:57:42,523 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 20:57:48,735 : INFO : test_e2e : getting all the card titles
+2021-06-06 20:57:49,092 : INFO : test_e2e : Entering Country name as ind
+2021-06-06 20:57:54,643 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-06 21:41:20,222 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 21:41:20,357 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 21:41:20,781 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 21:41:21,013 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 21:41:21,013 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 21:41:21,074 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 21:41:21,074 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 21:41:21,457 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 21:41:21,457 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 21:41:43,923 : INFO : test_e2e : getting all the card titles
+2021-06-06 21:41:44,143 : INFO : test_e2e : Entering Country name as ind
+2021-06-06 21:41:49,490 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-06 21:45:18,485 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 21:45:18,573 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 21:45:18,970 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 21:45:19,143 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 21:45:19,143 : INFO : test_formSubmission : The first name isAshish
+2021-06-06 21:45:19,206 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 21:45:19,206 : INFO : test_formSubmission : The emailId isashishsubas7@gmail.com
+2021-06-06 21:45:19,573 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 21:45:19,573 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-06 21:45:26,008 : INFO : test_e2e : getting all the card titles
+2021-06-06 21:45:26,269 : INFO : test_e2e : Entering Country name as ind
+2021-06-06 21:45:31,620 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-12 21:26:34,414 : INFO : test_formSubmission : The first name isMary
+2021-06-12 21:26:34,604 : INFO : test_formSubmission : The emailId ismarrypoppins@rediffmail.com
+2021-06-12 21:26:34,983 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-12 21:27:15,921 : INFO : test_formSubmission : The first name isMary
+2021-06-12 21:27:15,988 : INFO : test_formSubmission : The emailId ismarrypoppins@rediffmail.com
+2021-06-12 21:27:16,351 : INFO : test_formSubmission : The text displayed on the page after submission is×
+Success! The Form has been submitted successfully!.
+2021-06-13 16:11:51,919 : INFO : test_e2e : getting all the card titles
+2021-06-13 16:11:52,361 : INFO : test_e2e : Entering Country name as ind
+2021-06-13 16:11:58,133 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-13 16:11:58,133 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-13 16:13:02,139 : INFO : test_e2e : getting all the card titles
+2021-06-13 16:13:02,518 : INFO : test_e2e : Entering Country name as ind
+2021-06-13 16:13:08,255 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-06-13 16:13:08,255 : INFO : test_e2e : The text received from Application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
